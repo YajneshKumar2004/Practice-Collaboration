@@ -1,1 +1,10 @@
 Maturity is when you realize stackoverflow is the best website of the world.
+
+	while(alive)
+	{
+			Wake_Up();
+			Eat();
+			Code();
+			Sleep();
+			Repeat();
+	}
