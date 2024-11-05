@@ -1,3 +1,0 @@
-git branch branch-name
-git branch // to print all the branch
-git checkout branch-name // to change the branch
